@@ -26,9 +26,9 @@
   </a>
 </p>
 
-English | [简体中文](./README.zh-CN.md) | [日本語](./README.ja.md) | [Spanish](./README.es.md)
+<!-- English | [简体中文](./README.zh-CN.md) | [日本語](./README.ja.md) | [Spanish](./README.es.md) -->
 
-## Introduction
+<!-- ## Introduction
 
 [vue-element-admin](https://panjiachen.github.io/vue-element-admin) is a production-ready front-end solution for admin interfaces. It is based on [vue](https://github.com/vuejs/vue) and uses the UI Toolkit [element-ui](https://github.com/ElemeFE/element).
 
@@ -42,9 +42,9 @@ English | [简体中文](./README.zh-CN.md) | [日本語](./README.ja.md) | [Spa
 
 - [Donate](https://panjiachen.github.io/vue-element-admin-site/donate/)
 
-- [Wiki](https://github.com/PanJiaChen/vue-element-admin/wiki)
+- [Wiki](https://github.com/PanJiaChen/vue-element-admin/wiki) -->
 
-- [Gitee](https://panjiachen.gitee.io/vue-element-admin/) 国内用户可访问该地址在线预览
+<!-- - [Gitee](https://panjiachen.gitee.io/vue-element-admin/) 国内用户可访问该地址在线预览 -->
 
 - Base template recommends using: [vue-admin-template](https://github.com/PanJiaChen/vue-admin-template)
 - Desktop: [electron-vue-admin](https://github.com/PanJiaChen/electron-vue-admin)
@@ -194,7 +194,7 @@ Detailed changes for each release are documented in the [release notes](https://
 
 [Preview](https://panjiachen.github.io/vue-element-admin)
 
-## Donate
+<!-- ## Donate
 
 If you find this project useful, you can buy author a glass of juice :tropical_drink:
 
@@ -202,7 +202,7 @@ If you find this project useful, you can buy author a glass of juice :tropical_d
 
 [Paypal Me](https://www.paypal.me/panfree23)
 
-[Buy me a coffee](https://www.buymeacoffee.com/Pan)
+[Buy me a coffee](https://www.buymeacoffee.com/Pan) -->
 
 ## Browsers support
 
